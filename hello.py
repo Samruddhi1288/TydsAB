@@ -1,1 +1,1 @@
-print("Hello GitHub jenkins")
+print("Hello GitHub jenkins cron")
